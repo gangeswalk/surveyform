@@ -25,6 +25,7 @@ body {
     width: 100%;
     background-color: blueviolet;
     margin: 0px auto;
+    padding-bottom: 30px;
 }
 
 form {
@@ -50,10 +51,19 @@ label {
     border-radius: 7px;
     font-size: 1rem;
     padding-left: 10px;
-
-}
+    }
 
 .input-textarea {
     min-height: 120px;
     width: 100%;
+    }
+
+.submit-button {
+    display: block;
+    width: 100%;
+    padding: 1rem;
+    background-color: deeppink;
+    border-radius: 7px;
+    cursor: pointer;
+
 }
