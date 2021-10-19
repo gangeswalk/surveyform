@@ -9,6 +9,9 @@ h1 {
     padding: 30px;
     text-align: center;
 }
+h2 {
+    font-size: 1.2rem;
+}
 p {
     padding: 0px 120px 30px 120px;
     text-align: center;
