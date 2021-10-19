@@ -52,3 +52,8 @@ label {
     padding-left: 10px;
 
 }
+
+.input-textarea {
+    min-height: 120px;
+    width: 100%;
+}
